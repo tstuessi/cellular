@@ -1,6 +1,7 @@
 # Cellular
 
 A totalistic 1D cellular automaton simulator, designed for [COSC 420](http://web.eecs.utk.edu/~mclennan/Classes/420/) at UTK. 
+Note: the scripts in main\_scripts were written quickly and for an express purpose. They are not intended to be modular, so use and edit at your own risk.
 
 `python main.py`
 
